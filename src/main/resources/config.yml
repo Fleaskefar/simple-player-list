@@ -5,10 +5,10 @@ messages:
   playerList:
     # To view available placeholders look here: https://github.com/Sytm/simple-player-list/wiki/Available-Placeholders
     header: |
-      This is going to appear above the player list
-      %onlineplayers% / %maxplayers%
+      Welcome to TwistedSurvival
+      %onlineplayers% / %maxplayers%    %tps%
     footer: |
-      This is going to appear below the player list
+      Join the discord for support:https: PTJyMka
   commands:
     # If you want to be sneaky you can do this to make it "hidden" or change it to the same as notFound
     mainCommandNoPermission: 'Unknown command. Type "/help" for help.'
